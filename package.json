@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/HunterMcAfee/toDonts#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "hbs": "^4.0.1"
+    "hbs": "^4.0.1",
+    "method-override": "^2.3.9"
   }
 }
